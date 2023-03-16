@@ -1,33 +1,30 @@
 {
-  "cars": [
+  "users": [
     {
       "id": 1,
-      "brand": "Tata",
-      "type": "Manual",
-      "year": 2019,
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Tata",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "username": "rahul123",
+      "email": "rahul@123",
+      "password": "rahul123"
     }
   ],
-  "wishlisted_cars": [
+  "hotels": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "category": "Family",
+      "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"3".
+      "cost":"4000",
+      "booked":false,
     }
+  ],
+  "admin":[
+    {
+      "id": 1,
+      "email": "eve.holt@reqres.in",
+      "password": "cityslicka"
+  }
   ]
 }

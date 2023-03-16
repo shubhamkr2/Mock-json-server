@@ -17,7 +17,7 @@
       "no_of_persons":"2",
       "capacity":"3",
       "cost":"4000",
-      "booked":false,
+      "booked":false
     }
   ],
   "admin":[
